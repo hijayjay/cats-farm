@@ -12,16 +12,16 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://cats.exchange/#/swap?outputCurrency=0x1a7f0b3af6e9e9953f4b61ecb2791e55dc7dcb19',
+        href: 'https://app.fufu.farm/#/swap?outputCurrency=0x1a7f0b3af6e9e9953f4b61ecb2791e55dc7dcb19',
       },
       {
         label: 'Liquidity',
-        href: 'http://cats.exchange/#/pool',
+        href: 'http://app.fufu.farm/#/pool',
       },
     ],
   },
   {
-    label: 'Cats Farms',
+    label: 'FuFu Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
@@ -31,7 +31,7 @@ const config: MenuEntry[] = [
     href: '/pools',
   },
    {
-     label: 'Casino (coming in 24h)',
+     label: 'FuFu NFT (coming in 24h)',
      icon: 'PoolIcon',
      href: '/casino',
    },
@@ -56,19 +56,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Cats info',
-        href: 'https://catsswap.info/',
+        href: 'https://fufu.financial/',
       },
       {
         label: 'GitHub',
-        href: 'https://github.com/CatsFinance',
+        href: 'https://github.com/hijayjay',
       },
    {
       label: 'Medium',
-       href: 'https://catexchange.medium.com/',
+       href: 'https://fufufarm.medium.com/',
     },
      {
         label: 'Telegram',
-        href: 'https://t.me/CatsExchange',
+        href: 'https://t.me/fufufarm',
       },
     ],
   },
